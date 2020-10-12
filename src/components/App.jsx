@@ -1,5 +1,5 @@
 import React from 'react'
-import DataFetching from './DataFetching'
+import DataFetching from './DataFetching2'
 import '../styles.css'
 
 export default function App() {
